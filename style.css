@@ -120,10 +120,11 @@ html,body{
 }
 #btm-right{
     position: absolute;
-    bottom: 5%;
+    bottom: 8%;
     right: 3%;
     gap: 10px;
-    font-size: 17px;
+    display: flex;
+
 }
 
 #center-btm{
