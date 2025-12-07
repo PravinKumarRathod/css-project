@@ -62,7 +62,7 @@ html,body{
 }
 
 #main>h1{
-    font-size: 150px;
+    font-size: 10vw;
     text-transform: uppercase;
     position: absolute;
     top: 50%;
@@ -70,6 +70,7 @@ html,body{
     transform: translate(-50%, -50%);
     width: 100%;
     text-align: center;
+    white-space: nowrap;
 }
 
 #img1, #img2, #img3{
