@@ -120,7 +120,7 @@ html,body{
 }
 #btm-right{
     position: absolute;
-    bottom: 8%;
+    bottom: 5.6%;
     right: 3%;
     gap: 10px;
     display: flex;
@@ -129,7 +129,7 @@ html,body{
 
 #center-btm{
     position: absolute;
-    bottom: 5%;
+    bottom: 4.8%;
     right: 3%;
     font-size: 17px;
 }
